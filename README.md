@@ -14,3 +14,5 @@ Features:
 -And more...
 
 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/521051-xmum-moodle-tweaks)
+
+![PixPin_2024-12-18_01-55-30](https://github.com/user-attachments/assets/e4245d1c-caf4-49c8-b5a9-7322f777b858)
