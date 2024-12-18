@@ -7,7 +7,7 @@ Features:
 
 -Adds "E-Services" tab at the top navigation bar.
 
--Greatly reduced bloated course view page. E.g. narrower item rows.
+-Greatly optimizes bloated course view page. E.g.: narrower item rows.
 
 -Coloring optimization.
 
